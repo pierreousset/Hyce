@@ -1,4 +1,4 @@
-# React-Native-app-test
+# Hyce app
 
 Create with expo react native 
 
