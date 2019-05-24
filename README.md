@@ -2,7 +2,7 @@
 
 Create with expo react native 
 
-Command start app expo
+Start app
 ```
 yarn install
 yarn start
